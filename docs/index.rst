@@ -2,7 +2,7 @@
 *snowmicropyn*'s Documentation
 ==============================
 
-A warmly welcome to the documentation of *snowmicropyn*, a python package to
+A warm welcome to the documentation of *snowmicropyn*, a python package to
 read, export and post process data (\*.pnt files) recorded by SnowMicroPen_, a
 snow penetration probe for scientifc applications developed at SLF_.
 
@@ -32,10 +32,11 @@ Table of Content
 Contributors
 ------------
 
-- Sascha Grimm, SLF
-- Henning Löwe, SLF
-- Thiemo Theile, SLF
-- Marcel Schoch, SLF
+- Sascha Grimm, SLF (version 0)
+- Henning Löwe, SLF (code)
+- Thiemo Theile, SLF (code)
+- Marcel Schoch, SLF (re-coded and version 1)
+- Martin Schneebeli, SLF (first draft and idea)
 
 License
 -------
